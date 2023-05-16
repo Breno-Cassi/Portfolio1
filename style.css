@@ -1,0 +1,140 @@
+body {
+    background-color: #0B0B0B;
+    font-family: "Fira Sans", sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    top: 15%;
+    left: 46%;
+}
+
+h3 {
+    color: #7B7B7B;
+    position: absolute;
+    top: 23%;
+    left: 46%;
+}
+
+h4 {
+    color: #A69C9C;
+    position: absolute;
+    top: 28%;
+    left: 46%;
+}
+
+p {
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 31%;
+}
+
+p1 {
+    color: #7B7B7B;
+    position: absolute;
+    top: 59%;
+    left: 31%;
+}
+
+h5 {
+    color: white;
+    position: absolute;
+    top: 72%;
+    left: 31%;
+}
+
+p2 {
+    color: white;
+    position: absolute;
+    top: 83%;
+    left: 31%;
+}
+
+p3 {
+    color: #7B7B7B;
+    position: absolute;
+    top: 83%;
+    left: 45%;
+}
+
+p4 {
+    color: #7B7B7B;
+    position: absolute;
+    top: 91%;
+    left: 45%;
+}
+
+p5 {
+    color: #7B7B7B;
+    position: absolute;
+    top: 103%;
+    left: 45%;
+}
+
+p6 {
+    color: white;
+    position: absolute;
+    top: 112%;
+    left: 27%;
+}
+
+p7 {
+    color: white;
+    position: absolute;
+    top: 129%;
+    left: 27%;
+}
+
+a {
+    color: #7B7B7B;
+    position: absolute;
+    top: 129%;
+    left: 37%;
+    text-decoration: none;
+}
+
+.linkedin {
+    color: #7B7B7B;
+    position: absolute;
+    top: 129%;
+    left: 47%;
+    text-decoration: none;
+}
+
+.hotmail {
+    color: #7B7B7B;
+    position: absolute;
+    top: 129%;
+    left: 57%;
+}
+
+.instagram {
+    color: #7B7B7B;
+    position: absolute;
+    top: 129%;
+    left: 67%;
+    text-decoration: none;
+}
+.imagem {
+  width: 178px; 
+  height: 178px;
+  border-radius: 50%; 
+  overflow: hidden; 
+  position: absolute;
+  top: 13%;
+  left: 31%;
+  transition: transform 0.5s ease;
+}
+.imagem:hover {
+  transform: scale(1.1); 
+}
+.borda {
+  color: #0B0B0B;
+  overflow: hidden; 
+  position: absolute;
+  top: 130%;
+  left: 21%;
+}
